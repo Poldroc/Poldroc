@@ -2,9 +2,9 @@
 
 - <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>I’m Peng Weng, a software engineering undergraduate student at Fuzhou University, China.
 - 🌱 I’m currently learning Jave,Go...
-   <div align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-   </div> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+
 <!--
 **Poldroc/Poldroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

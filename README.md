@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://gitee.com/poldroc/typora-drawing-bed01/raw/master/imgs/202307091655633.gif" width="30">
 
 - <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>I’m Peng Weng, a software engineering undergraduate student at Fuzhou University, China.
-- 🌱 I’m currently learning Jave,front-end...
+- 🌱 I’m currently learning Jave,Go...
    <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
    </div> 

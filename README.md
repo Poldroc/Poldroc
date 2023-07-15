@@ -5,8 +5,9 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## My Contributions
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=Poldroc&show_icons=true&hide_border=true&hide_title=false">
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poldroc&hide_border=true&layout=compact&hide_title=false">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Poldroc&show_icons=true&hide_border=true&hide_title=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poldroc&hide_border=true&layout=compact&hide_title=false">
+
 
 <!--
 **Poldroc/Poldroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

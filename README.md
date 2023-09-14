@@ -2,7 +2,7 @@
 
 - <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>I’m Peng Weng, a software engineering undergraduate student at Fuzhou University, China.
 - 🌱 I’m currently learning Jave,Go...
-<img src="https://gitee.com/poldroc/typora-drawing-bed01/raw/master/imgs/202309150107561.gif" alt="Coder GIF" width="200" height="200" >
+<img src="https://engroc.oss-cn-fuzhou.aliyuncs.com/video-web/QQ%E5%9B%BE%E7%89%8720230915010611.gif" alt="Coder GIF" width="250" height="250" text-align:center  >
 
 ## My Contributions
 

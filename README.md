@@ -3,9 +3,9 @@
 
 ### I'm Weng Peng <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 - A Software Engineering Undergraduate Student at Fuzhou University, China.
-- 🌱 I’m currently learning Jave.
-- 💬 Ask me about Java and my projects on [engroc@foxmail.com](engroc@foxmail.com)
-- ⚡ Fun fact: Data Analysis📊
+- 🌱 I’m currently learning **Jave**.
+- 💬 Discuss and learn together contact me on [engroc@foxmail.com](engroc@foxmail.com)
+- ⚡ Fun fact: **Anime**❤ **Star Rail**🕹
 ### My Contributions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Poldroc&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poldroc&hide_border=true&layout=compact&hide_title=false">

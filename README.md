@@ -10,6 +10,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Poldroc&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poldroc&hide_border=true&layout=compact&hide_title=false">
 
+![暗色](https://raw.githubusercontent.com/Poldroc/Poldroc/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Poldroc/Poldroc/output/github-contribution-grid-snake.svg)
 
 <!--
 **Poldroc/Poldroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

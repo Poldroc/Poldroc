@@ -4,7 +4,7 @@
 ### I'm Weng Peng <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 - A Software Engineering Undergraduate Student at Fuzhou University, China.
 - 🌱 I’m currently learning **Jave**.
-- 💬 Discuss and learn together contact me on [engroc@foxmail.com](engroc@foxmail.com)
+- 💬 Discuss and learn together contact me on [engroc@foxmail.com](mailto:engroc@foxmail.com)
 - ⚡ Fun fact: **Anime**❤ **Star Rail**🕹
 ### My Contributions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 

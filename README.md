@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://gitee.com/poldroc/typora-drawing-bed01/raw/master/imgs/202307091655633.gif" width="30">
-<img align="right" alt="GIF" src="https://engroc.oss-cn-fuzhou.aliyuncs.com/video-web/QQ%E5%9B%BE%E7%89%8720230915010611.gif" />
+<img align="right" alt="GIF" src="https://engroc.oss-cn-fuzhou.aliyuncs.com/Typora/202407122256766.gif" />
 
 ### I'm Weng Peng <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 - A Software Engineering Undergraduate Student at Fuzhou University, China.
